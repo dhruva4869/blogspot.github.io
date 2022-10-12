@@ -1,0 +1,58 @@
+.bg-primary{
+background:#283538!important;
+}
+
+.bg-secondary{
+background:#24282f!important;
+}
+
+.bg-tri{
+background:#444e5b;
+}
+
+.mt20{
+margin-top:20px;
+}
+
+.container-custom{
+width:95%!important;
+margin:auto;
+}
+
+.logo
+{
+    display: inline-block;
+    width: 156px;
+    height: 30px;
+        margin-top: 5px;
+        background-size: auto 43px;
+    background-image: url(media/post/ave.png);
+    background-repeat: no-repeat;
+}
+
+.footer{
+    background-color: var(--dark-color);
+}
+.footer__container{
+    row-gap: 2rem;
+}
+.footer__title{
+    font-size: var(--normal-font-size);
+    color: var(--white-color);
+    margin-bottom: var(--mb-2);
+}
+.footer__link{
+    padding: .25rem 0;
+}
+.footer__link:hover{
+    color: var(--first-color);
+}
+.footer__social{
+    font-size: 1.4rem;
+    margin-right: var(--mb-1);
+}
+.footer__social:hover{
+    color: var(--first-color);
+}
+
+
